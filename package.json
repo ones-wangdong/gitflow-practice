@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ones-wangdong/gitflow-practice/issues"
   },
-  "homepage": "https://github.com/ones-wangdong/gitflow-practice#readme"
+  "homepage": "https://github.com/ones-wangdong/gitflow-practice#readme",
+  "dependencies": {
+    "react": "^18.2.0"
+  }
 }
